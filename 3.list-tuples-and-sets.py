@@ -1,8 +1,5 @@
 # Lists
 
-from queue import Empty
-
-
 courses = ['History', 'Math', 'Physics', 'CompSci']
 courses_2 = ['Education', 'Chemistry']
 courses.append('Medicine')
